@@ -9,7 +9,4 @@ Repository for weekly paper reading
 
 [1]:https://arxiv.org/abs/2208.07339
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
